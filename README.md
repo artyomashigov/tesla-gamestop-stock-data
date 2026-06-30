@@ -1,4 +1,9 @@
-# teslagamestopstockdata
+# Tesla and GameStop Stock Data
 
-It's stock data of Tesla and Gamestop
-You can also find the visualisation of the data
+Notebook project analyzing Tesla and GameStop stock data.
+
+## Contents
+
+- Stock data collection
+- Basic analysis
+- Data visualizations
